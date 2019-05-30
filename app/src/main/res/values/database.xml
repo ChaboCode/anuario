@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Saul</item>
+        <item>Jose Luis</item>
+        <item>Bryan</item>
+        <item>Cynthia</item>
+    </string-array>
+    <string-array name="full_names">
+        <item>Saul Chavez Sanchez</item>
+        <item>Jose Luis Rodriguez Martinez</item>
+        <item>Bryan de Jesus Olivares Gomez</item>
+        <item>Cynthia Jacqueline Soto Ramos</item>
+    </string-array>
+</resources>
